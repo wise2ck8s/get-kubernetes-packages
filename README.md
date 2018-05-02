@@ -54,7 +54,7 @@ transfer.sh作为文件中转，然而该站点有些时候在国内的访问速
 ![Alt text](https://github.com/wise2ck8s/get-kubernetes-packages/raw/master/images/how%20to%20get%20the%20deb%20or%20rpm%20files.png)
 ![Alt text](https://github.com/wise2ck8s/get-kubernetes-packages/raw/master/images/how%20to%20load%20images.png)
 
-###################################################################################################################
+######################################################################
 
 macOS操作系统下的程序界面是类似的，操作方法完全一致：
 
