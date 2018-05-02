@@ -60,4 +60,4 @@ macOS操作系统下的程序界面是类似的，操作方法完全一致：
 ![Alt text](https://github.com/wise2ck8s/get-kubernetes-packages/raw/master/images/macOS02.png)
 ![Alt text](https://github.com/wise2ck8s/get-kubernetes-packages/raw/master/images/macOS03.png)
 
-Alan Peng ( peng.alan@gmail.com )
+Alan Peng ( alan_peng@wise2c.com / peng.alan@gmail.com )
