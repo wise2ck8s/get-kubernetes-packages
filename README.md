@@ -9,13 +9,13 @@ Get Kubernetes Packages without VPN
 
 获取的Docker镜像包或OS下安装所需的二进制包，例如RPM或DEB格式的安装包文件。
 
-        您首先需要拥有一个Gitlab站点 http://gitlab.com （不是私有部署的Gitlab服务器）的账号，用它来完成所有操作，如
+        您首先需要拥有一个Gitlab站点 http://gitlab.com （不是私有部署的Gitlab服务器）的账号，用它来完成所有
 
-果还没有，请自行注册一个即可，这是免费的。
+操作，如果还没有，请自行注册一个即可，这是免费的。
 
-        在程序主界面默认提供了基于Kubeadm安装模式的Kubernetes 1.10.2的版本号及其相关组件的版本号，您可以对其中
-        
-任意版本号进行自定义输入。也可以点击镜像列表页的按钮“获取K8S版本号列表”自动同步。
+        在程序主界面默认提供了基于Kubeadm安装模式的Kubernetes 1.10.2的版本号及其相关组件的版本号，您可以对其
+
+中任意版本号进行自定义输入。也可以点击镜像列表页的按钮“获取K8S版本号列表”自动同步。
 
         当然您还可以使用该工具获取与Kubernetes无关的镜像，只需要在首页的镜像列表里自己输入完整镜像名即可，每
         
@@ -27,8 +27,8 @@ Get Kubernetes Packages without VPN
 
         使用过程中遇到任何问题或对我们其它产品产生兴趣，欢迎随时请联系我们。
 
-                                                                                                                                                                                                                      深圳睿云智合科技有限公司
-                                                                                                                                                                                                                      
+                                                                                深圳睿云智合科技有限公司
+
 ![Alt text](https://github.com/wise2ck8s/get-kubernetes-packages/raw/master/images/getkubernetespackages01.png)
 ![Alt text](https://github.com/wise2ck8s/get-kubernetes-packages/raw/master/images/getkubernetespackages02.png)
 ![Alt text](https://github.com/wise2ck8s/get-kubernetes-packages/raw/master/images/getkubernetespackages03.png)
