@@ -31,9 +31,21 @@ transfer.sh作为文件中转，然而该站点有些时候在国内的访问速
 
                                                                                 深圳睿云智合科技有限公司
 
+
+点击“获取K8S版本号列表”可出现下拉框，选择您需要的版本：
+
 ![Alt text](https://github.com/wise2ck8s/get-kubernetes-packages/raw/master/images/getkubernetespackages01.png)
+
+输入您在Gitlab网站 ( https://gitlab.com ) 上的账号及密码，然后点击“开始构建并下载”按钮：
+
 ![Alt text](https://github.com/wise2ck8s/get-kubernetes-packages/raw/master/images/getkubernetespackages02.png)
+
+直至任务成功，这期间由于国内访问Gitlab站点可能会不太稳定，程序会给出各种错误提示，一般您只需要重新执行几次就可以正常了。
+
 ![Alt text](https://github.com/wise2ck8s/get-kubernetes-packages/raw/master/images/getkubernetespackages03.png)
+
+下载该压缩包文件并解压开，按下面截图操作方法获得Kubernetes所需的docker镜像以及二进制包文件：
+
 ![Alt text](https://github.com/wise2ck8s/get-kubernetes-packages/raw/master/images/getkubernetespackages04.png)
 ![Alt text](https://github.com/wise2ck8s/get-kubernetes-packages/raw/master/images/how%20to%20get%20the%20deb%20or%20rpm%20files.png)
 ![Alt text](https://github.com/wise2ck8s/get-kubernetes-packages/raw/master/images/how%20to%20load%20images.png)
