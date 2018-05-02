@@ -38,6 +38,10 @@ transfer.sh作为文件中转，然而该站点有些时候在国内的访问速
 
 输入您在Gitlab网站 ( https://gitlab.com ) 上的账号及密码，然后点击“开始构建并下载”按钮：
 
+如果出现ssl相关错误，那是因为您电脑上缺少了两个dll文件（libeay32.dll和ssleay32.dll），请在这里下载到Windows的系统目录
+
+或改工具所在目录下。
+
 ![Alt text](https://github.com/wise2ck8s/get-kubernetes-packages/raw/master/images/getkubernetespackages02.png)
 
 直至任务成功，这期间由于国内访问Gitlab站点可能会不太稳定，程序会给出各种错误提示，一般您只需要重新执行几次就可以正常了。
@@ -49,5 +53,13 @@ transfer.sh作为文件中转，然而该站点有些时候在国内的访问速
 ![Alt text](https://github.com/wise2ck8s/get-kubernetes-packages/raw/master/images/getkubernetespackages04.png)
 ![Alt text](https://github.com/wise2ck8s/get-kubernetes-packages/raw/master/images/how%20to%20get%20the%20deb%20or%20rpm%20files.png)
 ![Alt text](https://github.com/wise2ck8s/get-kubernetes-packages/raw/master/images/how%20to%20load%20images.png)
+
+###################################################################################################################
+
+macOS操作系统下的程序界面是类似的，操作方法完全一致：
+
+![Alt text](https://github.com/wise2ck8s/get-kubernetes-packages/raw/master/images/macOS01.png)
+![Alt text](https://github.com/wise2ck8s/get-kubernetes-packages/raw/master/images/macOS02.png)
+![Alt text](https://github.com/wise2ck8s/get-kubernetes-packages/raw/master/images/macOS03.png)
 
 Alan Peng ( peng.alan@gmail.com )
