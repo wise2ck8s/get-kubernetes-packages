@@ -1,0 +1,3 @@
+GifImage_Waitting RCDATA "Images\\waitting.gif"
+Resource_Config RCDATA "Settings.conf"
+PngImage_CICD RCDATA "Images\\cicd.png"
