@@ -35,7 +35,7 @@ transfer.sh作为文件中转，然而该站点有些时候在国内的访问速
 
 输入您在Gitlab网站 ( https://gitlab.com ) 上的账号及密码，然后点击“开始构建并下载”按钮：
 
-如果出现ssl相关错误，那是因为您电脑上缺少了两个dll文件（libeay32.dll和ssleay32.dll），请在本项目的openssl-library-files
+如果出现ssl相关错误，那是因为您电脑上缺少了两个dll文件（libeay32.dll和ssleay32.dll），请在本项目的Packages
 
 目录下载到Windows的系统目录（32位是C:\Windows\System32；64位是C:\Windows\SysWOW64）或直接保存在该工具所在
 
