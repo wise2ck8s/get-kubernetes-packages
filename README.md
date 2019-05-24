@@ -1,9 +1,6 @@
 # get-kubernetes-packages
-Get Kubernetes Packages without VPN (Gitlab已经停止了对API v3的支持，新版本已经更新至v4)
 
 欢迎使用睿云智合提供的Kubernetes部署资源获取工具！
-
-                                           --- Alan Peng ( alan_peng@wise2c.com / peng.alan@gmail.com)
 
         该工具用来在没有VPN翻墙工具的时候，可以顺畅的利用Gitlab服务来为我们制作Kubernetes或其它任意难以在国内
 
